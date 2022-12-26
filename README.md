@@ -1,49 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-2.6.3
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-# <業務管理ツール>
+# 業務管理ツール
 
 ## サイト概要
-<個人経営の訪問介護ヘルパーの仕事を円滑にするためのサイト>
+個人経営の訪問介護ヘルパーの仕事を円滑にするためのサイト
 
 ### サイトテーマ
-<業務円滑化>
+業務円滑化
 
 ### テーマを選んだ理由
-<友人が介護ヘルパーの仕事を個人で営んでおり、その会社にあったら便利そうなシステムを想像してみました>
+友人が介護ヘルパーの仕事を個人で営んでおり、その会社にあったら便利そうなシステムを想像してみました。
 
 ### ターゲットユーザ
-<個人経営の介護福祉ヘルパー>
+個人経営の介護福祉ヘルパー
 
 ### 主な利用シーン
-<報連相の円滑化、伝え漏れを防止する>
+報連相の円滑化、伝え漏れを防止する
+→小さな会社の為、従業員一人一人に必要事項を伝えているそうで、
+伝え漏れ防止や伝達の手間を減らす機能が主に必要と感じました。
+これらが改善できると、管理者側が誰に何を伝えたか分かりやすくなる上に
+従業員もサイトで都度確認できるので、伝達ミスや漏れを防ぐことができ業務に集中できます。
 
 ## 設計書
 https://docs.google.com/spreadsheets/d/1RlxPQJliAbrFa48uAbfM2EW_JkGYCFGoN1HIPP6f5gM/edit?usp=sharing
-<...>
 
 ## 開発環境
 - OS：Linux(CentOS)
